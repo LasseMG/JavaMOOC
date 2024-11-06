@@ -6,7 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaMOOC.iml" filepath="$PROJECT_DIR$/.idea/JavaMOOC.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaProgrammingI/JavaProgrammingI.iml" filepath="$PROJECT_DIR$/JavaProgrammingI/JavaProgrammingI.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaProgrammingII/JavaProgrammingII.iml" filepath="$PROJECT_DIR$/JavaProgrammingII/JavaProgrammingII.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaProgrammingII/HashMap/SimilarityOfObjects/SimilarityOfObjects.iml" filepath="$PROJECT_DIR$/JavaProgrammingII/HashMap/SimilarityOfObjects/SimilarityOfObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProgrammingII/SimilarityOfObjects/SimilarityOfObjects.iml" filepath="$PROJECT_DIR$/JavaProgrammingII/SimilarityOfObjects/SimilarityOfObjects.iml" />
     </modules>
   </component>
 </project>
